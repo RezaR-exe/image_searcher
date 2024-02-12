@@ -1,0 +1,23 @@
+.search {
+    display: flex;
+    justify-content: center;
+    margin: 5em;
+}
+
+.photos-parent {
+    display: flex;
+    justify-content: center;
+    margin: 3em;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+.photos-child {
+    margin: 1em;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+}
